@@ -4,5 +4,6 @@
     <string name="label_studio_disclaimer_subtitle">Se requiere consulta gratuita y ajuste personalizado con un óptico en salas de exposición seleccionadas de Lenskart.</string>
     <string name="label_unserviceable_to_fourth_floor">No podremos brindar servicio a los pisos ubicados en el cuarto piso y superiores si no hay ascensor disponible.</string>
     <string name="msg_successfully_password_sent">Revise su correo electrónico: se envió un enlace para restablecer la contraseña a su correo electrónico</string>
+    <string name="road_name">Carretera Mahatma Gandhi</string>
     <string name="sub_title_empty_view">Lenskart está trabajando arduamente para ampliar los puntos de recogida en todo el país. Pronto llegaremos a tu localidad.</string>
 </resources>
