@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_service_unavailable">เราไม่สามารถให้บริการบนชั้นที่ 4 ขึ้นไปได้ หากไม่มีลิฟต์ให้บริการ</string>
+    <string name="label_studio_disclaimer_subtitle">ต้องได้รับคำปรึกษาฟรีและการปรับแต่งแบบกำหนดเองกับช่างแว่นตาที่โชว์รูม Lenskart บางแห่ง</string>
+    <string name="sub_title_empty_view">Lenskart กำลังทำงานอย่างหนักเพื่อขยายจุดรับสินค้าทั่วประเทศ เรากำลังจะมาถึงพื้นที่ของคุณเร็วๆ นี้</string>
+    <string name="welcome_string">ยินดีต้อนรับ.</string>
+</resources>
