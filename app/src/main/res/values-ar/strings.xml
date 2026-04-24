@@ -3,5 +3,4 @@
     <string name="label_service_unavailable">لن نتمكن من تقديم الخدمة للطوابق الموجودة في الطابق الرابع وما فوق إذا لم يكن هناك مصعد متاح.</string>
     <string name="label_studio_disclaimer_subtitle">مطلوب استشارة مجانية وتركيب مخصص مع أخصائي العيون في صالات عرض Lenskart المختارة.</string>
     <string name="sub_title_empty_view">تعمل شركة Lenskart جاهدة لتوسيع نقاط الالتقاء في جميع أنحاء البلاد. نحن قادمون قريبا إلى منطقتك.</string>
-    <string name="welcome">مرحباً.</string>
 </resources>
