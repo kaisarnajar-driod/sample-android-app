@@ -5,5 +5,6 @@
     <string name="label_studio_disclaimer_subtitle">ต้องได้รับคำปรึกษาฟรีและการปรับแต่งแบบกำหนดเองกับช่างแว่นตาที่โชว์รูม Lenskart บางแห่ง</string>
     <string name="msg_successfully_password_sent">ตรวจสอบอีเมลของคุณ - ลิงก์สำหรับรีเซ็ตรหัสผ่านได้ถูกส่งไปยังอีเมลของคุณแล้ว</string>
     <string name="sub_title_empty_view">Lenskart กำลังทำงานอย่างหนักเพื่อขยายจุดรับสินค้าทั่วประเทศ เรากำลังจะมาถึงพื้นที่ของคุณเร็วๆ นี้</string>
+    <string name="wecome_string">ยินดีต้อนรับ</string>
     <string name="welcome_string">ยินดีต้อนรับ.</string>
 </resources>
