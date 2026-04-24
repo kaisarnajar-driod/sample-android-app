@@ -3,5 +3,4 @@
     <string name="label_service_unavailable">Nous ne serons pas en mesure de desservir les étages situés au 4ème étage et plus s'il n'y a pas d'ascenseur disponible.</string>
     <string name="label_studio_disclaimer_subtitle">Une consultation gratuite et un ajustement personnalisé sont requis avec un opticien dans les showrooms Lenskart sélectionnés.</string>
     <string name="sub_title_empty_view">Lenskart travaille dur pour étendre les points de retrait à travers le pays. Nous venons bientôt dans votre localité.</string>
-    <string name="welcome_string">Accueillir.</string>
 </resources>
