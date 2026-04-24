@@ -6,4 +6,5 @@
     <string name="msg_successfully_password_sent">Check your email - modified string</string>
     <string name="road_name">Mahatma Gandhi Road</string>
     <string name="sub_title_empty_view">Lenskart is working hard to expand pickup points across the country. We are coming soon to your locality.</string>
+    <string name="hello_world">Hello World</string>
 </resources>
