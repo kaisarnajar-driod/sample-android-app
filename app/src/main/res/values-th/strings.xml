@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="label_pupillary_distance_click_suggestion">จัดใบหน้าของคุณให้ตรงและถ่ายภาพเพื่อค้นหาระยะห่างของรูม่านตา (PD)</string>
     <string name="label_studio_disclaimer_subtitle">ต้องได้รับคำปรึกษาฟรีและการปรับแต่งแบบกำหนดเองกับช่างแว่นตาที่โชว์รูม Lenskart บางแห่ง</string>
+    <string name="label_unserviceable_to_fourth_floor">เราไม่สามารถให้บริการบนชั้นที่ 4 ขึ้นไปได้ หากไม่มีลิฟต์ให้บริการ</string>
+    <string name="msg_successfully_password_sent">ตรวจสอบอีเมลของคุณ - ลิงก์สำหรับรีเซ็ตรหัสผ่านได้ถูกส่งไปยังอีเมลของคุณแล้ว</string>
+    <string name="sub_title_empty_view">Lenskart กำลังทำงานอย่างหนักเพื่อขยายจุดรับสินค้าทั่วประเทศ เรากำลังจะมาถึงพื้นที่ของคุณเร็วๆ นี้</string>
     <string name="welcome_string">ยินดีต้อนรับ.</string>
 </resources>
