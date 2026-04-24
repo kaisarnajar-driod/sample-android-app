@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="label_pupillary_distance_click_suggestion">حافظ على محاذاة وجهك والتقط صورة للعثور على المسافة الحدقة (PD)</string>
     <string name="label_studio_disclaimer_subtitle">مطلوب استشارة مجانية وتركيب مخصص مع أخصائي العيون في صالات عرض Lenskart المختارة.</string>
     <string name="label_unserviceable_to_fourth_floor">لن نتمكن من تقديم الخدمة للطوابق الموجودة في الطابق الرابع وما فوق إذا لم يكن هناك مصعد متاح.</string>
-    <string name="msg_successfully_password_sent">تحقق من بريدك الإلكتروني - تم إرسال رابط لإعادة تعيين كلمة المرور إلى بريدك الإلكتروني</string>
     <string name="sub_title_empty_view">تعمل شركة Lenskart جاهدة لتوسيع نقاط الالتقاء في جميع أنحاء البلاد. نحن قادمون قريبا إلى منطقتك.</string>
 </resources>
